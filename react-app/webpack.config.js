@@ -42,6 +42,8 @@ module.exports = {
       },
     ],
   },
+
+  // federation module 
   plugins: [
     new HtmlWebpackPlugin({
       template: "./index.html",
